@@ -78,3 +78,9 @@ FREELANCER
 📄 License
 
 This project is developed for academic and learning purposes.
+
+OUTPUT:
+
+
+<img width="582" height="462" alt="Screenshot 2026-02-19 211712" src="https://github.com/user-attachments/assets/8950a7d9-f2f1-45bd-9059-393534494e8d" />
+
